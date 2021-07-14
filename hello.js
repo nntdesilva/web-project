@@ -1,1 +1,2 @@
-let x = 100 + 50;
+let str = "Please locate where 'locate' occurs!";
+str.search("locate")     // Returns 7
